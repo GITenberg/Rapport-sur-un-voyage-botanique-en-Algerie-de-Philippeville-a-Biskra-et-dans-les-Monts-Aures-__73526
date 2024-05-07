@@ -1,0 +1,28 @@
+_repo: Rapport-sur-un-voyage-botanique-en-Algerie-de-Philippeville-a-Biskra-et-dans-les-Monts-Aures-__73526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cosson, Ernest
+    gutenberg_agent_id: '57107'
+    url: http://www.gutenberg.org/2009/agents/57107
+description: ''
+gutenberg_issued: '2024-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73526'
+language: fr
+pgterms:marc904: https://n2t.net/ark:/47881/m6v40tkd
+pgterms:marc905: 20240423223417cosson
+pgterms:marc906: '1856'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the Bibliothèque de l'Université Claude Bernard Lyon 1)
+publication_note: '  $aParis :$bLibrairie de Victor Masson, $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rapport sur un voyage botanique en Algérie, de Philippeville a Biskra et dans
+  les Monts Aurès, entrepris en 1853 sous le patronage du Ministère de la guerre
+url: http://www.gutenberg.org/ebooks/73526
