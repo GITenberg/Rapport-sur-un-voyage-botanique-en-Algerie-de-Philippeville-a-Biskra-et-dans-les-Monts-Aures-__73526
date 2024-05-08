@@ -1,11 +1,16 @@
 _repo: Rapport-sur-un-voyage-botanique-en-Algerie-de-Philippeville-a-Biskra-et-dans-les-Monts-Aures-__73526
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73526-h/images/cover.jpg
 creator:
   author:
     agent_name: Cosson, Ernest
     gutenberg_agent_id: '57107'
     url: http://www.gutenberg.org/2009/agents/57107
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73526#Rapport-sur-un-voyage-botanique-en-Algerie-de-Philippeville-a-Biskra-et-dans-les-Monts-Aures-_
 gutenberg_issued: '2024-05-03'
 gutenberg_type: Text
 identifiers:
